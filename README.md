@@ -5,7 +5,7 @@ Hey there! 👋 Welcome to Emoji Elegance Parade, a whimsical web animation that
 
 
 ## About This Project
-This is a straightforward but captivating project where HTML and JavaScript take the spotlight. Despite the minimal use of CSS, we've managed to create an attractive and interactive Emoji Elegance Parade. It's a testament to the idea that simplicity can be incredibly charming!
+This is a straightforward but captivating project where HTML and JavaScript take the spotlight. Despite the minimal use of CSS, I've managed to create an attractive and interactive Emoji Elegance Parade. It's a testament to the idea that simplicity can be incredibly charming!
 
 
 ## What's Inside?
